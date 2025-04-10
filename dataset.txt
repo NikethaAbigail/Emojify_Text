@@ -1,0 +1,27 @@
+EmojifyText Dataset Info
+=======================
+
+What is this?
+-------------
+This is the dataset for the EmojifyText project—a collection of social media posts paired with 43 unique emojis (e.g., 😂, ❤️, 👉). It’s packed into a file called `archive (2).zip`, which contains individual CSV files for each emoji, each with a 'Text' column of posts. This dataset powers the magic of predicting emojis from your text!
+
+Where to Get It?
+----------------
+The dataset is too big for GitHub, so it’s hosted on Google Drive. Download it here:
+- Link: https://drive.google.com/file/d/1IkbvQ2oP4UMNj6EUh32VHRyicWOqasMA/view?usp=sharing
+
+What to Do?
+-----------
+1. Click the link above to access the file on Google Drive.
+2. Click the "Download" button (you might need to sign in to Google, but no special permissions are required).
+3. Save `archive (2).zip` to your computer.
+4. Unzip it into the same folder as `emoji_predictor.ipynb` (the main notebook from this repo).
+5. Open the notebook and run it—everything should work smoothly with the dataset in place!
+
+Notes:
+------
+- The unzipped folder will be named `data` and contain 43 CSV files (e.g., `red_heart.csv`, `thumbs_up.csv`).
+- Make sure you have enough disk space (it’s a hefty file!).
+- Questions? Feel free to reach out via GitHub!
+
+Happy Emojifying! ✨
