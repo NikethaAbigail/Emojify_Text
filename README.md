@@ -11,10 +11,7 @@ Ready to turn your social media posts into emoji masterpieces? **EmojifyText** i
 **EmojifyText** is a lightweight ML gem that guesses emojis from your text. No GPU drama—just pure, efficient code that runs anywhere. Trained on a dazzling dataset of 43 emojis (think 👉, 🙏, 💀, and more), it’s your backstage pass to the wild world of digital expression.
 
 ### Sample Sparks:
-- "This Monday’s got me down" → 😭
-- "Party time with my crew" → 🥳
-- "You gotta see this now" → 👉
-- 
+![Output](https://github.com/NikethaAbigail/Emojify_Text/blob/main/output.png?raw=true)
 
 ---
 
